@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1627372205 source:c:\users\adones\desktop\code blocks\rrs-in-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	<io.h>
+	<malloc.h>
+
+1673148432 source:f:\rrs-in-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	<io.h>
+	<malloc.h>
+
